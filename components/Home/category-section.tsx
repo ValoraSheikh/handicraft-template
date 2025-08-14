@@ -17,7 +17,7 @@ export default function Category() {
             <Image
             fill
               alt="Two models wearing women's black cotton crewneck tee and off-white cotton crewneck tee."
-              src="https://images.unsplash.com/photo-1634390756696-505390283f61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGpld2Vscnl8ZW58MHwyfDB8fHww"
+              src="https://images.unsplash.com/photo-1543334270-305dab05a6ab?q=80&w=881&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               className="absolute size-full object-cover group-hover:opacity-75"
             />
             <div aria-hidden="true" className="absolute inset-0 bg-linear-to-b from-transparent to-black opacity-50" />
@@ -39,7 +39,7 @@ export default function Category() {
             <Image
             fill
               alt="Wooden shelf with gray and olive drab green baseball caps, next to wooden clothes hanger with sweaters."
-              src="https://images.unsplash.com/photo-1531995811006-35cb42e1a022?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amV3ZWxyeXxlbnwwfDB8MHx8fDA%3D"
+              src="https://images.unsplash.com/photo-1628924192091-26edc6ea861c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               className="absolute size-full object-cover group-hover:opacity-75"
             />
             <div aria-hidden="true" className="absolute inset-0 bg-linear-to-b from-transparent to-black opacity-50" />
@@ -61,7 +61,7 @@ export default function Category() {
             <Image
               fill
               alt="Walnut desk organizer set with white modular trays, next to porcelain mug on wooden desk."
-              src="https://images.unsplash.com/photo-1591209627710-d2427565a41f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGpld2Vscnl8ZW58MHwwfDB8fHww"
+              src="https://images.unsplash.com/photo-1667122169175-25068f80e737?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               className="absolute size-full object-cover group-hover:opacity-75"
             />
             <div aria-hidden="true" className="absolute inset-0 bg-linear-to-b from-transparent to-black opacity-50" />
