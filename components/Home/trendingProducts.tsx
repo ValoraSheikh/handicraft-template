@@ -4,11 +4,11 @@ import Link from "next/link"
 const products = [
   {
     id: 1,
-    name: 'Machined Pen',
+    name: 'Sweater',
     color: 'Black',
     price: '$35',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1693213085231-fc580d8916de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amV3ZWxyeSUyMHByb2R1Y3R8ZW58MHwyfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1621490153925-439fbe544722?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Black machined steel pen with hexagonal grip and small white logo at top.',
     availableColors: [
       { name: 'Black', colorBg: '#111827' },
@@ -18,11 +18,11 @@ const products = [
   },
   {
     id: 2,
-    name: 'Earthen Mug',
+    name: 'Wool ',
     color: 'Matte Black',
     price: '$28',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1693833923492-16fd4c1373bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8amV3ZWxyeSUyMHByb2R1Y3R8ZW58MHwyfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1466584241662-8cb021032c1a?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Black porcelain mug with modern square handle and natural clay accents on rim and bottom.',
     availableColors: [
       { name: 'Matte Black', colorBg: '#4B5563' },
@@ -31,11 +31,11 @@ const products = [
   },
   {
     id: 3,
-    name: 'Leatherbound Daily Journal Set',
+    name: 'Paper Weight',
     color: 'Natural',
     price: '$50',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1617791693847-e9a22372299e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGpld2VscnklMjBwcm9kdWN0fGVufDB8MnwwfHx8MA%3D%3D',
+    imageSrc: 'https://images.unsplash.com/photo-1648836197781-86b0e81ef31d?q=80&w=851&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Natural leather journal with brass disc binding and three paper refill sets.',
     availableColors: [
       { name: 'Natural', colorBg: '#FEF3C7' },
@@ -45,11 +45,11 @@ const products = [
   },
   {
     id: 4,
-    name: 'Leatherbound Daily Journal',
+    name: 'Design Mirror',
     color: 'Black',
     price: '$50',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1571859906623-9612b0f58b86?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGpld2VscnklMjBwcm9kdWN0fGVufDB8MnwwfHx8MA%3D%3D',
+    imageSrc: 'https://images.unsplash.com/photo-1608624825275-91abfd650d02?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Black leather journal with brass disc binding.',
     availableColors: [
       { name: 'Black', colorBg: '#111827' },
