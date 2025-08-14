@@ -36,7 +36,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: "https://plus.unsplash.com/premium_photo-1679809447923-b3250fb2a0ce?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    title: "Aurielle Jewelry – Crafted for Moments That Last Forever",
+    title: "Luxury Handicraft – Crafted for Moments That Last Forever",
     description:
       "Discover Luxury Handicraft fine Handicraft collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
     siteName: "Aurielle Jewelry",
