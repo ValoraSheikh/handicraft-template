@@ -21,9 +21,9 @@ const playfair = Playfair_Display({
 
 // SEO + Social Media Meta Tags
 export const metadata = {
-  title: "Luxury Jewelry – Crafted for Moments That Last Forever",
+  title: "Luxury Handicraft – Crafted for Moments That Last Forever",
   description:
-    "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
+    "Discover Aurielle's handcrafted fine Handicraft collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
   keywords: [
     "luxury jewelry",
     "fine jewelry",
@@ -35,14 +35,14 @@ export const metadata = {
   ],
   openGraph: {
     type: "website",
-    url: "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGpld2Vscnl8ZW58MHwwfDB8fHww",
+    url: "https://plus.unsplash.com/premium_photo-1679809447923-b3250fb2a0ce?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Aurielle Jewelry – Crafted for Moments That Last Forever",
     description:
       "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
     siteName: "Aurielle Jewelry",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGpld2Vscnl8ZW58MHwwfDB8fHww",
+        url: "https://plus.unsplash.com/premium_photo-1679809447923-b3250fb2a0ce?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         width: 1200,
         height: 630,
         alt: "Aurielle Jewelry Showcase",
@@ -54,7 +54,7 @@ export const metadata = {
     title: "Aurielle Jewelry – Crafted for Moments That Last Forever",
     description:
       "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
-    images: ["https://images.unsplash.com/photo-1620656798579-1984d9e87df7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGpld2Vscnl8ZW58MHwwfDB8fHww"],
+    images: ["https://plus.unsplash.com/premium_photo-1679809447923-b3250fb2a0ce?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
   },
   icons: {
     icon: "/favicon.ico",
