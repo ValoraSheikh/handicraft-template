@@ -3,29 +3,29 @@ import Link from "next/link"
 
 const categories = [
   {
-    name: 'New Arrivals',
+    name: 'Handicraft Gifts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8amV3ZWxyeXxlbnwwfDF8MHx8fDA%3D',
+    imageSrc: 'https://images.unsplash.com/photo-1576616520013-e87e2f589d74?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
-    name: 'Productivity',
+    name: 'Wooden Handicrafts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1599458349289-18f0ee82e6ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1649797335485-355e9577ce80?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
     name: 'Workspace',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1633555234047-192d10238f5f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1557687790-902ede7ab58c?q=80&w=698&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
-    name: 'Accessories',
+    name: 'Metal Handicrafts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1631982690223-8aa4be0a2497?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1530021853947-7d73da7acb70?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
-    name: 'Sale',
+    name: 'Textile Handicrafts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1631050165155-421c47e306f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1718002877981-3c2bafe53cb0?q=80&w=626&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
 ]
 
